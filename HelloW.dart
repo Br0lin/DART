@@ -7,6 +7,6 @@ void main() {
   var edad = 25;
   print(edad);
 
-  var (edadPersona, nombre) = (25, "Andres");
-  print("Edad: $edadPersona, Nombre: $nombre");
+  String HW = "Hello World xd";
+  print(HW);
 }
